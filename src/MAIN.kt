@@ -72,7 +72,7 @@ fun main(args: Array<String>) {
 
 
     var le = 0.0;
-    var t = 0;
+    var t = 0;;
     for(temp in args) {
         le += temp.toDouble();
         t++;
